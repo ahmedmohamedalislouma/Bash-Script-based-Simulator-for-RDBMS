@@ -1,1 +1,0 @@
-# Bash-Script-based-Simulator-for-RDBMS
