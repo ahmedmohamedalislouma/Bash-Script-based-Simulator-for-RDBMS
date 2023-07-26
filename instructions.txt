@@ -1,0 +1,12 @@
+
+please follow these instructions before testing our project
+
+add the tar file to this path -----> /home
+
+then the path of the file will be ----> /home/MySQL
+
+and then run the script -----> . //home/MySQL/main.sh
+
+the file DB_admins.db has some users as i tested the project many times with different users
+
+so enjoy our project!! :D

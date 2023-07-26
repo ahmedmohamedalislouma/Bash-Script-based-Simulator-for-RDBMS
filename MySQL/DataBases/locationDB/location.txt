@@ -1,0 +1,4 @@
+id,name,city,region,area
+1,elnady,tanta,elgharbia,5000
+2,el7osary,october,elsabe3,8555
+3,lelet_2adr,october,elsades,9777
